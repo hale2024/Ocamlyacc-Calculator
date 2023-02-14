@@ -1,7 +1,7 @@
 # Ocamlyacc-Calculator
 ## Step 1: 
-> >>git clone 
+> git clone 
 ## Step 2: 
-> >>make
+> make
 ## Step 3:
 > type >>./main.native
