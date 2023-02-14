@@ -5,3 +5,6 @@
 > make
 ## Step 3:
 > ./main.native
+## Step 3:
+> 4 + 3 * 2
+> >>10
